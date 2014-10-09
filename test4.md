@@ -1,3 +1,3 @@
 a new test file
 
-Here is a new line
+Here is a new line and line and line
